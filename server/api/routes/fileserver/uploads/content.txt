@@ -1,0 +1,73 @@
+ 
+Di Lu -芦笛 
+dilu@umich.edu 
+Overview 
+I am leading a Google Search team called ​Pathways​ with 13 engineers and >20 across-functional 
+people. I founded this effort and grew it into a well-recognized team. Prior to Pathways, I was the 
+tech lead for ​Jobs Search​ product. I was the founding engineer and the feature lead for the initial 
+launch and I became tech lead for the team with ~20 engineers later. For multiple successful 
+projects, I lead end-to-end developments including data acquisition, crawling, indexing, serving, 
+triggering, ranking, UI, logging, experimentation and UX. I am also a highly-technical hands-on 
+and prolific engineer and wrote 400k lines of code in the last 4 years at Google.  
+Skills 
+●Team building, interviewing & recruiting, people management, performance management 
+●Product development, cross-functional collaboration 
+●Extensive knowledge of Google Search stack including crawling, indexing, serving, 
+ranking, UI, triggering, logging and experimentation 
+GOOGLE EXPERIENCE 
+Pathways​ - Tech Lead/Manager 
+Sep 2018 - Present 
+Project description​: ​Pathways​ enables anyone to discover, explore, compare and connect to 
+high-quality job training programs for better outcomes. It was announced in Search 20th 
+anniversary event, is launched in Virginia, Washington and Indiana and will expand to whole US 
+in Q1’2020. 
+Responsibility​: 
+●Manage 10 engineers across 2 sites and lead a team with 20+ cross-functional people 
+●Lead end-to-end development including data acquisition, crawling, indexing, serving, 
+triggering, ranking, UI, logging, experimentation and UX 
+●Scope project and set direction with PM and senior leaderships 
+●Set data strategy to foster a healthy data ecosystem with partnership team 
+●Set product strategy to create user-friendly product with PM and UX team 
+●Design end-to-end technical architecture 
+Employ 2.0 and Beyond, ​Tech Lead 
+Nov 2017 - Feb 2019 
+Project description​: ​Employ​ ​continued to grow rapidly and was launched on more platforms and 
+more locales. By now, it is available in all major platforms and 200+ countries. I moved to New 
+York and started a new team from scratch. 
+----------------Page (0) Break----------------
+ 
+Contributions​: 
+●Set project direction with senior leadership 
+●Built a successful NYC team from scratch 
+●Led end-to-end development for Explore/Recommendation and ​Jobs for Veterans 
+●Worked with Search infra team to design next-generation of serving/UI infrastructure 
+●Participated Employ expansion and directly led surfacing expanding and UX part of 
+internationalization 
+Employ 1.0/1.1, ​Frontend Tech Lead 
+Aug 2016 - Nov 2017 
+Project description​: ​Employ​ ​enables people to find any jobs available online. Initially, it was 
+announced and launched by Sundar during 2017 Google I/O.  
+Contributions​: 
+●Founded the project and helped assemble the team with ~30 engineers 
+●Led frontend team with ~5 engineers  
+●Designed a comprehensive generic frontend framework used by multiple other teams 
+●Designed most frontend features on top of 20-year legacy system (GWS) and Employ was 
+considered as the most complicated UX feature built on Search 
+●Wrote >50% of frontend code and was most prolific engineer (~130k line in 1 year) 
+PRE-GOOGLE EXPERIENCE 
+PernixData (acquired by Nutanix),  San Jose​ - Senior Software Engineer 
+Feb 2015 - Aug 2016 
+Microsoft,  Shanghai​ - Software Engineer Intern, eCommerce team 
+Nov 2014 - Jan 2015 
+Amazon, Seattle​ - Software Engineer Intern, Infra team 
+Sep 2014 - Nov 2014 
+Google, Mountain View​ - Software Engineer Intern, Search Ads team 
+May 2014 - Aug 2014 
+EDUCATION 
+University of Michigan, Ann Arbor ​- Bachelor of Computer Science 
+Sep 2013 - Apr 2015, GPA: 3.9/4.0 
+Awards: Dean’s List 
+Shanghai JiaoTong University, Shanghai ​- Electrical and Computer Engineering 
+Sep 2010 - Jun 2015, GPA: 3.9/4.0 
+Awards: National Scholarship (Top 1%) 
+----------------Page (1) Break----------------
